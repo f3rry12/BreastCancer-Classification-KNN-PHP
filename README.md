@@ -1,6 +1,9 @@
 # BreastCancer-Classification-KNN-PHP
-Breast Cancer Classification with KNN coding using PHP from scratch without using machine learning library
+Breast Cancer Classification with KNN coding using PHP from scratch without using machine learning library <br>
+input page: <br>
 ![Input](https://github.com/f3rry12/BreastCancer-Classification-KNN-PHP/blob/main/readme_asset/ss1.png)
+<br>
+result page: <br>
 ![Output](https://github.com/f3rry12/BreastCancer-Classification-KNN-PHP/blob/main/readme_asset/ss2.png)
 
 ## Dataset
